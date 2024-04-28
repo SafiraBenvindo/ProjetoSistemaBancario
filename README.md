@@ -1,0 +1,2 @@
+
+O código simula um sistema de compras em lojas, onde clientes realizam compras e funcionários recebem salários. Cada cliente tem um saldo inicial e compra em todas as lojas. As lojas pagam salários aos funcionários e recebem pagamentos das compras. Os funcionários recebem salários, investem parte e pagam uma dívida fixa, com o restante indo para a conta de salário. O código usa threads e locks para garantir a sincronização em operações de saldo.
